@@ -39,8 +39,8 @@ sw = stopwords.words(language)
 
 ################################Required Input from users##################################
 
-User_Question ="How Agile model is helping customers?"
-pdf_path=r'C:\Users\bhuva_pxpvpbh\OneDrive\Desktop\annual-report-2019-2020.pdf'
+User_Question ="Your Question which user need to ask"
+pdf_path='path of the pdf file from which need to aask question'
 
 #######################Creating mask and their entity mappings###################### 
 
